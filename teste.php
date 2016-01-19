@@ -1,3 +1,4 @@
 <?php
 phpinfor()
-echo "teste";
+
+ola!!!
